@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 *.js.map
-/Index.js
 /tsLibs/*.js
+/Index.js
+/node_modules
