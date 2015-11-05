@@ -4,3 +4,8 @@
 /tsLibs/*.js
 /Index.js
 /node_modules
+/typings
+Defines.js
+Defines.js.map
+Modules.js.map
+Modules.js
